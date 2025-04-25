@@ -1,0 +1,6 @@
+[submodule "freya/vendor/odin-ecs"]
+	path = freya/vendor/odin-ecs
+	url = https://github.com/NoahR02/odin-ecs
+[submodule "freya/vendor/odin-assimp"]
+	path = freya/vendor/odin-assimp
+	url = https://github.com/bytemomo/odin-assimp.git
