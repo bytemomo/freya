@@ -1,0 +1,12 @@
+*
+
+!*.cpp
+!*.h
+!*.a
+
+!LICENSE
+!README.md
+!Makefile
+
+!.editorconfig
+!.gitignore

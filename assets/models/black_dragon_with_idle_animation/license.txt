@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Dragon with Idle Animation
+* source:	https://sketchfab.com/3d-models/black-dragon-with-idle-animation-fb0053a2e59b43868e934c239bf4eb36
+* author:	3DHaupt (https://sketchfab.com/dennish2010)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Dragon with Idle Animation" (https://sketchfab.com/3d-models/black-dragon-with-idle-animation-fb0053a2e59b43868e934c239bf4eb36) by 3DHaupt (https://sketchfab.com/dennish2010) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
